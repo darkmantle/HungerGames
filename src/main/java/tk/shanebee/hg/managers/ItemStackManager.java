@@ -191,7 +191,7 @@ public class ItemStackManager {
             level = Integer.parseInt(d[1]);
         }
         for (Enchantment e : Enchantment.values()) {
-            if (e.getKey().getKey().equalsIgnoreCase(d[0]) || e.getName().equalsIgnoreCase(d[0])) {
+            if (e.getKey().getKey().equalsIgnoreCase(d[0])) {
                 itemMeta.addEnchant(e, level, true);
                 return;
             }
