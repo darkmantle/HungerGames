@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>tk.shanebee.hg</groupId>
-    <artifactId>HungerGames</artifactId>
+    <artifactId>hungergames</artifactId>
     <version>5.2.1</version>
 
     <properties>
