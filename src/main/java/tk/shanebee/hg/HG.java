@@ -82,7 +82,7 @@ public class HG extends JavaPlugin {
         bonusItems = new HashMap<>();
 
 		config = new Config(this);
-		Bukkit.getLogger().info("Loading HungerGames by JT122406");
+		Bukkit.getLogger().info("Loading HungerGames by Darkmantle");
 
 		//Bukkit.getLogger().info("Your server version is: " + getServer().getVersion() + "     Your Java Version is " + System.getProperty("java.version"));
 		String Version = System.getProperty("java.version");
